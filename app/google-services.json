@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "734326756410",
+    "firebase_url": "https://modern-dashboard-screen.firebaseio.com",
+    "project_id": "modern-dashboard-screen",
+    "storage_bucket": "modern-dashboard-screen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734326756410:android:89e1130260143a08625103",
+        "android_client_info": {
+          "package_name": "com.rotimijohnson.moderndashboardscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734326756410-tm5gvue4d2ktl21h1la71m0fttkefbfv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rotimijohnson.moderndashboardscreen",
+            "certificate_hash": "fe46f48d4b76f9211037c980e9cd6535d1c1919d"
+          }
+        },
+        {
+          "client_id": "734326756410-spc7oo3u0gs1tq5s5oup3t6jtq8efheg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQAap1zIUYs2s7PVWcJEBSY8NKVEU0Jlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734326756410-spc7oo3u0gs1tq5s5oup3t6jtq8efheg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

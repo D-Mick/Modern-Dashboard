@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/nav_cycling"
+            android:icon="@drawable/ic_directions_bike_black_24dp"
+            android:title="Cycling" />
+        <item
+            android:id="@+id/nav_bus"
+            android:icon="@drawable/ic_directions_bus_black_24dp"
+            android:title="Bus" />
+        <item
+            android:id="@+id/nav_flight"
+            android:icon="@drawable/ic_flight_black_24dp"
+            android:title="Flight" />
+
+    </group>
+
+
+        <item android:title="profile">
+        <menu>
+            <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_login"
+                android:icon="@drawable/ic_login"
+                android:title="Login" />
+
+            <item
+                android:id="@+id/nav_profile"
+                android:icon="@drawable/ic_person_black_24dp"
+                android:title="Profile" />
+            <item
+                android:id="@+id/log_out"
+                android:icon="@drawable/ic_arrow"
+                android:title="Logout" />
+            </group>
+        </menu>
+        </item>
+
+
+    <item android:title="Communicate">
+
+        <menu>
+            <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_settings"
+                android:icon="@drawable/ic_share_black_24dp"
+                android:title="Share" />
+
+            <item
+                android:id="@+id/nav_comment"
+                android:icon="@drawable/ic_rate_review_black_24dp"
+                android:title="Rate Us" />
+            </group>
+        </menu>
+
+    </item>
+
+</menu>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Modern Dashboard Screen</string>
+    <string name="nav_open_drawer">Open navigation drawer</string>
+    <string name="nav_close_drawer">Open navigation drawer</string>
+    <string name="already_have_an_account_sign_in">Already have an account? Sign In</string>
+    <string name="sign_up_to_start_a_new_journey">Sign Up to start a new journey</string>
+    <string name="welcome">Welcome,</string>
+    <string name="go">Go</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="hello_there_welcome_back">hello there, welcome back</string>
+    <string name="sign_in_to_continue">Sign In to continue</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="johnson_micheal">Johnson Micheal</string>
+</resources>
